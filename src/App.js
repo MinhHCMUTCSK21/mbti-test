@@ -227,7 +227,7 @@ function App() {
       </div>
       <div className="footer">
         <span>Nguyễn Quang Minh - ĐH Bách Khoa, TPHCM - HCMUT</span>
-        <span>Email : minh.nguyequang@hcmut.edu.vn</span>
+        <span>Email : minh.nguyenquang@hcmut.edu.vn</span>
         <span>Đồ án chuyên ngành: HK231</span>
         <span>
           Câu trả lời của bạn có thể được sử dụng cho mục đích nghiên cứu
